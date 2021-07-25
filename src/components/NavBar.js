@@ -16,6 +16,7 @@ export default function NavBar() {
           </div>
 
           <div class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto justify-center">
+            {/*
             <NavLink to="/blog">
               <div class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto justify-start">
                 <a href="/blog" class="p-2 mr-4 inline-flex items-center">
@@ -23,6 +24,7 @@ export default function NavBar() {
                 </a>
               </div>
             </NavLink>
+            */}
             <NavLink to="/project">
               <div class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto justify-start">
                 <a href="/project" class="p-2 mr-4 inline-flex items-center">
