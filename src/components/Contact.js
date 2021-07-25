@@ -63,7 +63,7 @@ export default function Contact() {
                     />
                   </svg>
                   <div class="ml-4 text-md tracking-wide font-semibold w-40">
-                    Ntinda-kisaasi, Kampala, Uganda
+                    kisaasi-Kulambiro, Kampala, Uganda.
                   </div>
                 </div>
               </div>
