@@ -77,7 +77,7 @@ export default function NavBar() {
               style={{ height: 35, width: 35 }}
             />
             <SocialIcon
-              url="http://www.linktree-web.s3-website.us-east-2.amazonaws.com"
+              url="http://linktree-web.s3-website.us-east-2.amazonaws.com"
               className="mr-4"
               target="_blank"
               fgColor="#fff"
