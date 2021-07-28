@@ -43,7 +43,7 @@ export default function NavBar() {
               <a href="/cv" class="p-2 mr-4 inline-flex items-center">
                 <span class="tracking-wide">My CV</span>
               </a>
-  </NavLink>*/}
+            </NavLink>*/}
             <NavLink to="/contact">
               <div class="top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto justify-start">
                 <a href="/contact" class="p-2 mr-4 inline-flex items-center">
